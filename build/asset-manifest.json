@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ccleandro/startup-of-the-year/static/css/main.d77e03a1.chunk.css",
-    "main.js": "/ccleandro/startup-of-the-year/static/js/main.e31ab590.chunk.js",
-    "main.js.map": "/ccleandro/startup-of-the-year/static/js/main.e31ab590.chunk.js.map",
-    "runtime-main.js": "/ccleandro/startup-of-the-year/static/js/runtime-main.054730c2.js",
-    "runtime-main.js.map": "/ccleandro/startup-of-the-year/static/js/runtime-main.054730c2.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/ccleandro/startup-of-the-year/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.f0d44eb8.chunk.js": "/ccleandro/startup-of-the-year/static/js/2.f0d44eb8.chunk.js",
-    "static/js/2.f0d44eb8.chunk.js.map": "/ccleandro/startup-of-the-year/static/js/2.f0d44eb8.chunk.js.map",
-    "index.html": "/ccleandro/startup-of-the-year/index.html",
-    "precache-manifest.ff2caed48178ea198fe6dbfc79ca8956.js": "/ccleandro/startup-of-the-year/precache-manifest.ff2caed48178ea198fe6dbfc79ca8956.js",
-    "service-worker.js": "/ccleandro/startup-of-the-year/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/ccleandro/startup-of-the-year/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.d77e03a1.chunk.css.map": "/ccleandro/startup-of-the-year/static/css/main.d77e03a1.chunk.css.map",
-    "static/js/2.f0d44eb8.chunk.js.LICENSE": "/ccleandro/startup-of-the-year/static/js/2.f0d44eb8.chunk.js.LICENSE",
-    "static/media/App.css": "/ccleandro/startup-of-the-year/static/media/SEGA.82e09f78.TTF"
+    "main.css": "/ccleandro/robofriends.git/static/css/main.aa0d5537.chunk.css",
+    "main.js": "/ccleandro/robofriends.git/static/js/main.95095239.chunk.js",
+    "main.js.map": "/ccleandro/robofriends.git/static/js/main.95095239.chunk.js.map",
+    "runtime-main.js": "/ccleandro/robofriends.git/static/js/runtime-main.9028bc7e.js",
+    "runtime-main.js.map": "/ccleandro/robofriends.git/static/js/runtime-main.9028bc7e.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/ccleandro/robofriends.git/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.f0d44eb8.chunk.js": "/ccleandro/robofriends.git/static/js/2.f0d44eb8.chunk.js",
+    "static/js/2.f0d44eb8.chunk.js.map": "/ccleandro/robofriends.git/static/js/2.f0d44eb8.chunk.js.map",
+    "index.html": "/ccleandro/robofriends.git/index.html",
+    "precache-manifest.5eb6d2554e2596c616362c01b73bffc1.js": "/ccleandro/robofriends.git/precache-manifest.5eb6d2554e2596c616362c01b73bffc1.js",
+    "service-worker.js": "/ccleandro/robofriends.git/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/ccleandro/robofriends.git/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.aa0d5537.chunk.css.map": "/ccleandro/robofriends.git/static/css/main.aa0d5537.chunk.css.map",
+    "static/js/2.f0d44eb8.chunk.js.LICENSE": "/ccleandro/robofriends.git/static/js/2.f0d44eb8.chunk.js.LICENSE",
+    "static/media/App.css": "/ccleandro/robofriends.git/static/media/SEGA.82e09f78.TTF"
   },
   "entrypoints": [
-    "static/js/runtime-main.054730c2.js",
+    "static/js/runtime-main.9028bc7e.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.f0d44eb8.chunk.js",
-    "static/css/main.d77e03a1.chunk.css",
-    "static/js/main.e31ab590.chunk.js"
+    "static/css/main.aa0d5537.chunk.css",
+    "static/js/main.95095239.chunk.js"
   ]
 }
