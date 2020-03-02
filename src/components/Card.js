@@ -1,4 +1,12 @@
 import React from "react";
+
+/* interface CardStatelessProps {
+  name: string,
+  email: String,
+  id: number
+} */
+
+// const Card: React.SFC<CardStatelessProps> = ({ id, name, email }) => {
 //const Card = props => {
 const Card = ({ id, name, email }) => {
   return (

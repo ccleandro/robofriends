@@ -7,6 +7,7 @@ import Header from "../components/Header";
 import "./MainPage.css";
 
 class MainPage extends Component {
+  // componentDidMount(): void {
   componentDidMount() {
     this.props.onRequestRobots();
   }
@@ -19,9 +20,9 @@ class MainPage extends Component {
     });
   };
 
+  //  render(): JSX.Element {
   render() {
     const { onSearchChange, isPending } = this.props;
-
     return (
       <div className="tc">
         <Header />

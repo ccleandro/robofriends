@@ -20,6 +20,25 @@ const mapDispatchToProps = dispatch => {
   };
 };
 
+/* TYPESCRIPT
+export interface IRobot {
+  name: string,
+  id: number,
+  email: string
+}
+
+interface IAppProps{
+
+}
+
+interface IAppState{
+  robots: Array<IRobot>,
+  searchfield; string
+}
+
+class App extends Component<IAppProps, IAppState> {
+*/
+
 class App extends Component {
   render() {
     return <MainPage {...this.props} />;

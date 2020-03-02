@@ -1,5 +1,10 @@
 import React from "react";
 
+/* type Props = {
+  children?: JSX.Element
+} */
+
+//const Scroll = (props: Props) => {
 const Scroll = props => {
   return (
     <div
